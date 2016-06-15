@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color: #FCFCFC !important;
+
+}
+
+#header{
+	display:inline;
+}
+#bodyProduit{
+	margin-left:15%;
+}
+
+#menuCategorie{
+	position:fixed;
+	
+}
+
+
+.produit{
+	display:inline-block;
+}
